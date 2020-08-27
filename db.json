@@ -1,4 +1,4 @@
-export default {
+{
   comments:
   [
     {
@@ -20,4 +20,4 @@ export default {
       "price":"Rs. 50000"
     }
   ]
-};
+}
