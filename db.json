@@ -17,12 +17,6 @@
       "product": "Dell Inspiron",
       "quantity": 4,
       "price": "Rs. 50000"
-    },
-    {
-      "id": 4,
-      "product": "Epson Printer",
-      "quantity": 1,
-      "price": "Rs. 9700"
     }
   ]
 }
